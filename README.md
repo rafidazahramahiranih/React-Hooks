@@ -3,7 +3,7 @@
 Movie Spotter adalah aplikasi React Native yang memungkinkan pengguna untuk mencari film berdasarkan judul. Aplikasi ini menyediakan daftar film lengkap dengan tahun rilis dan genre.
 
 ## Informasi
-- Rafida Zahra Maharani H.
+- Nama: Rafida Zahra Maharani H.
 - NIM: 2130511064
 - Instruktur: Prajoko, M.Kom
 - Mata Kuliah: Mobile Programming 2
