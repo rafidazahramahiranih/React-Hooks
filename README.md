@@ -17,9 +17,9 @@ Movie Spotter adalah aplikasi React Native yang memungkinkan pengguna untuk menc
 
 ## Struktur Proyek
 
-- **App.js**: Komponen utama aplikasi yang berisi daftar film dan fungsionalitas pencarian.
-- **./components/MovieItem.js**: Komponen untuk merender item film individual dalam daftar.
-- **./assets/styles.js**: Styles global untuk aplikasi.
+- `App.js`: Komponen utama aplikasi yang berisi daftar film dan fungsionalitas pencarian.
+- `./components/MovieItem.js`: Komponen untuk merender item film individual dalam daftar.
+- `./assets/styles.js`: Styles global untuk aplikasi.
 
 ## Peningkatan di Masa Depan
 
