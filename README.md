@@ -1,11 +1,28 @@
-# Sample Snack app
+# Movie Spotter App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Movie Spotter adalah aplikasi React Native yang memungkinkan pengguna untuk mencari film berdasarkan judul. Aplikasi ini menyediakan daftar film lengkap dengan tahun rilis dan genre.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Data Diri 
+- Rafida Zahra Maharani H.
+- NIM: 2130511064
+- Instruktur: Prajoko, M.Kom
+- Mata Kuliah: Mobile Programming 2
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Fitur
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- **Pencarian**: Pengguna dapat mencari film berdasarkan judul.
+- **Filter Dinamis**: Film secara dinamis difilter berdasarkan kata kunci pencarian.
+- **Tampilan Daftar**: Menampilkan daftar film yang sesuai dengan kriteria pencarian.
+- **Desain Responsif**: Dirancang untuk berfungsi baik pada perangkat iOS maupun Android.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Struktur Proyek
+
+- **App.js**: Komponen utama aplikasi yang berisi daftar film dan fungsionalitas pencarian.
+- **./components/MovieItem.js**: Komponen untuk merender item film individual dalam daftar.
+- **./assets/styles.js**: Styles global untuk aplikasi.
+
+## Peningkatan di Masa Depan
+
+- Tambahkan fitur tambahan seperti penilaian dan ulasan film.
+- Implementasikan otentikasi pengguna dan personalisasi.
+- Tingkatkan UI/UX untuk interaksi pengguna yang lebih baik.
